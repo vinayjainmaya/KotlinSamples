@@ -1,3 +1,5 @@
+package com.vinaymj.kotlin.samples
+
 /**
  * Class to demonstrate the Destructuring declarations concept.
  */
@@ -56,7 +58,6 @@ fun main() {
  }
 
 // Data class example
-
 data class DataPerson(
     val name: String,
     val age: Int,
